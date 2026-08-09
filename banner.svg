@@ -45,12 +45,12 @@
 
     <!-- Texto principal -->
     <text x="70" y="140" font-family="Space Grotesk, sans-serif" font-size="52" font-weight="700" fill="#E6EDF3">Gabriel Perrucho</text>
-    <text x="70" y="178" font-family="JetBrains Mono, monospace" font-size="20" fill="#4FD1C5">&gt; Análise e Desenvolvimento de Sistemas</text>
-    <text x="70" y="212" font-family="Inter, sans-serif" font-size="16" fill="#8B96A5">Construindo projetos com foco em código limpo e em aquisição de conhecimento.</text>
+    <text x="70" y="178" font-family="JetBrains Mono, monospace" font-size="20" fill="#4FD1C5">&gt; Systems Analysis and Development</text>
+    <text x="70" y="212" font-family="Inter, sans-serif" font-size="16" fill="#8B96A5">Project development focused on clean code and knowledge acquisition.</text>
 
     <!-- Tag decorativa -->
     <rect x="70" y="234" width="230" height="30" rx="15" fill="#10151D" stroke="#202836"/>
     <circle cx="90" cy="249" r="4" fill="#28C840"/>
-    <text x="104" y="253" font-family="JetBrains Mono, monospace" font-size="13" fill="#8B96A5">Disponível para empresas.</text>
+    <text x="104" y="253" font-family="JetBrains Mono, monospace" font-size="13" fill="#8B96A5">Available for businesses.</text>
   </g>
 </svg>
