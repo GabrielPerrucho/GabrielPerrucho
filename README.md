@@ -14,9 +14,9 @@
 
 <br />
 
-# Oláá, eu sou Gabriel Perrucho. 👋
+# Hello, I am Gabriel Perrucho. 👋
 
-### Desenvolvedor em formação · Análise e Desenvolvimento de Sistemas
+### Developer in Training · Systems Analysis and Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=4FD1C5)](https://linkedin.com/in/[SEU-LINKEDIN])
 [![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=4FD1C5)](mailto:[SEU-EMAIL]@exemplo.com)
@@ -26,26 +26,25 @@
 
 <br />
 
-## 📌 Sobre mim
+## 📌 About Me
 
 ```txt
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes/SE,
-com interesse em SOC / IAM / XAI / AI Systems Engineering e Threat Intelligence.
+I am a Systems Analysis and Development student at Universidade Tiradentes/SE,
+with an interest in SOC, IAM, XAI, AI Systems Engineering, and Threat Intelligence.
 
-Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior,
-construindo projetos reais para aprender na prática.
-
+I am seeking my first opportunity as an intern or junior developer,
+working on real-world projects to learn through hands-on experience.
 
 ```
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — Universidade Tiradentes/SE
-- 🔭 Trabalhando atualmente em **projetos pessoais**
-- 📫 Contato: **gabrielgperrucho@gmail.com**
+- 🎓 Taking a course in currently studying **Systems Analysis and Development** — Universidade Tiradentes/SE
+- 🔭 Currently working on **personal projects**
+- 📫 Contact: **gabrielgperrucho@gmail.com**
 
 <br />
 
-## 🧰 Tecnologias e ferramentas
+## 🧰 Technologies and tools
 
 <div align="center">
 
@@ -62,7 +61,7 @@ construindo projetos reais para aprender na prática.
 ![Node.js](https://img.shields.io/badge/-Node.js-10151D?style=flat-square&logo=nodedotjs&logoColor=8B7CF6)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-10151D?style=flat-square&logo=tailwindcss&logoColor=4FD1C5)
 
-**Banco de dados & Ferramentas**
+**Databases and Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-10151D?style=flat-square&logo=postgresql&logoColor=4FD1C5)
 ![Git](https://img.shields.io/badge/-Git-10151D?style=flat-square&logo=git&logoColor=F2B675)
@@ -74,7 +73,7 @@ construindo projetos reais para aprender na prática.
 
 <br />
 
-## 🚀 Projetos em destaque
+## 🚀 Featured projects
 
 <table>
   <tr>
@@ -92,11 +91,11 @@ construindo projetos reais para aprender na prática.
   </tr>
 </table>
 
-📎 Veja todos os projetos no meu [portfólio pessoal](https://[SEU-DOMINIO-OU-USUARIO].vercel.app).
+📎 See all the projects on my [portfólio pessoal](https://[SEU-DOMINIO-OU-USUARIO].vercel.app).
 
 <br />
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -113,7 +112,7 @@ construindo projetos reais para aprender na prática.
 
 <br />
 
-## 🌱 Contribuições
+## 🌐 Contributions
 
 <div align="center">
   <img src="https://ghchart.rshah.org/4FD1C5/[SEU-GITHUB]" alt="Gráfico de contribuições" width="100%" />
@@ -121,7 +120,7 @@ construindo projetos reais para aprender na prática.
 
 <br />
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
