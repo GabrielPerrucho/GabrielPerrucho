@@ -48,7 +48,7 @@ working on real-world projects to learn through hands-on experience.
 
 <div align="center">
 
-**Linguagens**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-10151D?style=flat-square&logo=javascript&logoColor=F2B675)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-10151D?style=flat-square&logo=typescript&logoColor=4FD1C5)
