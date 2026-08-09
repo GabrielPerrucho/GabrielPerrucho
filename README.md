@@ -18,8 +18,8 @@
 
 ### Developer in Training · Systems Analysis and Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=4FD1C5)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=4FD1C5)](mailto:[SEU-EMAIL]@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4FD1C5?style=for-the-badge&logo=linkedin&logoColor=0A0E14)](https://www.linkedin.com/in/gabriel-perrucho-26b353428)
+[![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=4FD1C5)](gabrielgperrucho@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0A0E14?style=for-the-badge&logo=vercel&logoColor=4FD1C5)](https://[SEU-DOMINIO-OU-USUARIO].vercel.app)
 
 </div>
