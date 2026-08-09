@@ -124,8 +124,7 @@ working on real-world projects to learn through hands-on experience.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4FD1C5?style=for-the-badge&logo=linkedin&logoColor=0A0E14)](https://linkedin.com/in/[SEU-LINKEDIN])
-[![Instagram](https://img.shields.io/badge/Instagram-F2B675?style=for-the-badge&logo=instagram&logoColor=0A0E14)](https://instagram.com/[SEU-INSTAGRAM])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4FD1C5?style=for-the-badge&logo=linkedin&logoColor=0A0E14)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-perrucho-26b353428)
 [![Email](https://img.shields.io/badge/Email-8B7CF6?style=for-the-badge&logo=gmail&logoColor=0A0E14)](mailto:[SEU-EMAIL]@exemplo.com)
 
 </div>
