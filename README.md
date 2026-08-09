@@ -14,7 +14,7 @@
 
 <br />
 
-# Salveee, eu sou Gabriel Perrucho. 👋
+# Oláá, eu sou Gabriel Perrucho. 👋
 
 ### Desenvolvedor em formação · Análise e Desenvolvimento de Sistemas
 
@@ -29,7 +29,6 @@
 ## 📌 Sobre mim
 
 ```txt
-> cat sobre.txt
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes/SE,
 com interesse em SOC / IAM / XAI / AI Systems Engineering / Threat Intelligence / Full-Stack Developer.
