@@ -51,6 +51,6 @@
     <!-- Tag decorativa -->
     <rect x="70" y="234" width="230" height="30" rx="15" fill="#10151D" stroke="#202836"/>
     <circle cx="90" cy="249" r="4" fill="#28C840"/>
-    <text x="104" y="253" font-family="JetBrains Mono, monospace" font-size="13" fill="#8B96A5">disponível para estágio</text>
+    <text x="104" y="253" font-family="JetBrains Mono, monospace" font-size="13" fill="#8B96A5">disponível para estágio e emprego na área.</text>
   </g>
 </svg>
