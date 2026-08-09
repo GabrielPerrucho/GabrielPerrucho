@@ -31,7 +31,7 @@
 ```txt
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes/SE,
-com interesse em SOC / IAM / XAI / AI Systems Engineering / Threat Intelligence / Full-Stack Developer.
+com interesse em SOC / IAM / XAI / AI Systems Engineering e Threat Intelligence.
 
 Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior,
 construindo projetos reais para aprender na prática.
