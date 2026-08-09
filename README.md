@@ -14,9 +14,9 @@
 
 <br />
 
-# Olá, eu sou [SEU NOME] 👋
+# Salveee, eu sou Gabriel Perrucho. 👋
 
-### Desenvolvedor(a) em formação · Análise e Desenvolvimento de Sistemas
+### Desenvolvedor em formação · Análise e Desenvolvimento de Sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=4FD1C5)](https://linkedin.com/in/[SEU-LINKEDIN])
 [![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=4FD1C5)](mailto:[SEU-EMAIL]@exemplo.com)
@@ -31,20 +31,18 @@
 ```txt
 > cat sobre.txt
 
-Estudante de Análise e Desenvolvimento de Sistemas em [NOME DA INSTITUIÇÃO],
-com interesse em [SUAS ÁREAS DE INTERESSE — ex: desenvolvimento web, back-end, dados].
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Tiradentes/SE,
+com interesse em SOC / IAM / XAI / AI Systems Engineering / Threat Intelligence / Full-Stack Developer.
 
-Busco minha primeira oportunidade como estagiário(a) ou desenvolvedor(a) júnior,
+Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior,
 construindo projetos reais para aprender na prática.
 
-[COMPLEMENTE COM 2-3 FRASES SOBRE VOCÊ, SUA TRAJETÓRIA E O QUE PROCURA]
+
 ```
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — [NOME DA INSTITUIÇÃO]
-- 🔭 Trabalhando atualmente em **[PROJETO ATUAL]**
-- 🌱 Aprendendo **[TECNOLOGIA QUE ESTÁ ESTUDANDO]**
-- 💬 Fale comigo sobre **[SEUS TEMAS DE INTERESSE]**
-- 📫 Contato: **[SEU-EMAIL]@exemplo.com**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — Universidade Tiradentes/SE
+- 🔭 Trabalhando atualmente em **projetos pessoais**
+- 📫 Contato: **gabrielgperrucho@gmail.com**
 
 <br />
 
@@ -137,5 +135,5 @@ construindo projetos reais para aprender na prática.
 <br />
 
 <div align="center">
-<sub>Feito com 💛 por [SEU NOME]</sub>
+<sub></sub>
 </div>
